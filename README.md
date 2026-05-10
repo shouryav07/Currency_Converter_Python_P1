@@ -1,5 +1,7 @@
 # Currency_Converter_Python_P1
-This project is a real-time currency converter that fetches live exchange rates from a public API and converts any amount between 150+ world currencies. The application features a modern graphical user interface (GUI) with searchable dropdowns, caching for offline support, and professional error handling
+FX Pulse is a modern desktop currency converter built with Python and CustomTkinter that delivers real-time exchange rates, interactive financial charts, offline caching, and a professional dark/light mode interface.
+
+Designed as an engineering-level mini project, the application combines live currency conversion with financial data visualization using Matplotlib and yfinance, while maintaining a smooth and responsive user experience through threaded API operations and SQLite caching
 
 # FX Pulse — Real-time Currency Converter
 
