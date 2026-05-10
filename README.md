@@ -3,6 +3,8 @@ FX Pulse is a modern desktop currency converter built with Python and CustomTkin
 
 Designed as an engineering-level mini project, the application combines live currency conversion with financial data visualization using Matplotlib and yfinance, while maintaining a smooth and responsive user experience through threaded API operations and SQLite caching
 
+
+
 # FX Pulse — Real-time Currency Converter
 
 A professional-grade desktop currency converter with live rates, interactive trend charts,
